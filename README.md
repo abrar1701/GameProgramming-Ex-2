@@ -27,7 +27,10 @@
  are spread out and not too close to each other.
 
 # OUTPUT:
-![image](https://github.com/user-attachments/assets/82a161db-4ddd-4e62-b1ed-b212fcdc00e9)
+![image](https://github.com/user-attachments/assets/b0b7dea0-d94d-48c9-8988-40af7b29b1c5)
+![Screenshot 2025-05-15 105726](https://github.com/user-attachments/assets/8ddd695a-acc2-4f35-baae-a31e98250d13)
+![image](https://github.com/user-attachments/assets/99cfc606-3a20-4d24-8c1d-11b5cdb61731)
+
 
 # RESULT:
  Thus the player movement using pawn, collectible, player health, and score has been created and
